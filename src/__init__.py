@@ -1,0 +1,2 @@
+"""Git Academy training application."""
+
